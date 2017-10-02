@@ -88,7 +88,7 @@ footer = '''
     </div>
 	<footer class="footer">
 		<div class="container">
-			<p>Function Club</p>
+			<p>Hello</p>
 		</div>
 	</footer>
 
